@@ -1,5 +1,5 @@
 ## About
-This the implementation of the paper "<a href="https://arxiv.org/pdf/1508.06576.pdf">A Neural Algorithm of Artistic Style</a>" in Pytorch following a tutorial in official Pytorch <a href="https://pytorch.org/tutorials/advanced/neural_style_tutorial.html#sphx-glr-advanced-neural-style-tutorial-py">tutoril</a>.
+This the implementation of the paper "<a href="https://arxiv.org/pdf/1508.06576.pdf">A Neural Algorithm of Artistic Style</a>" in Pytorch following a tutorial in official Pytorch <a href="https://pytorch.org/tutorials/advanced/neural_style_tutorial.html#sphx-glr-advanced-neural-style-tutorial-py">tutorial</a>.
 
 ## Files
 
