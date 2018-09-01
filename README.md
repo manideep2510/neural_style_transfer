@@ -3,6 +3,6 @@ This the implementation of the paper "<a href="https://arxiv.org/pdf/1508.06576.
 
 ## Files
 
-- **images** - Style and Content images
-- **neural_style_transfer.ipynb** - Jupyter notebook with all the code for the style transfer algorithm.
-- **resize.py** - This script can be used to resize the images and save them in a folder (already created) by editing few lines in the script.
+- [`images`](images) - Style and Content images
+- [`neural_style_transfer.ipynb`](neural_style_transfer.ipynb) - Jupyter notebook with all the code for the style transfer algorithm.
+- [`resize.py`](resize.py) - This script can be used to resize the images and save them in a folder (already created) by editing few lines in the script.
